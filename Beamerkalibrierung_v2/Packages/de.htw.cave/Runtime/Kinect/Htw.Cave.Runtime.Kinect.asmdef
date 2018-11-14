@@ -1,0 +1,15 @@
+{
+    "name": "Htw.Cave.Runtime.Kinect",
+    "references": [
+        "Htw.Cave.Runtime",
+        "Microsoft.Kinect.StandardAssets"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
